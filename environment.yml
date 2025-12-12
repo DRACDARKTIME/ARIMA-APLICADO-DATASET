@@ -10,4 +10,5 @@ dependencies:
   - scipy
   - seaborn
   - scikit-learn
+  - pmdarima
 prefix: /home/dracdarktime/miniconda3/envs/arima
