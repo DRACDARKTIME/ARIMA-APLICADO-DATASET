@@ -9,4 +9,5 @@ dependencies:
   - matplotlib
   - scipy
   - seaborn
+  - scikit-learn
 prefix: /home/dracdarktime/miniconda3/envs/arima
